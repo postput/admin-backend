@@ -1,0 +1,7 @@
+node_modules
+chart
+public/default/*
+secret/
+.git
+data/storage/*
+!data/storage/default.json
