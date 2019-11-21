@@ -30,7 +30,7 @@
     "memoizee": "^0.4.14",
     "merge2": "^1.1.0",
     "mime-types": "^2.1.13",
-    "moment": "^2.18.1",
+    "moment": "^2.19.3",
     "morgan": "^1.9.1",
     "multiparty": "^4.2.1",
     "node-fetch": "^2.6.0",
