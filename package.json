@@ -25,7 +25,7 @@
     "express-query-boolean": "^2.0.0",
     "express-query-int": "^3.0.0",
     "express-winston": "^2.4.0",
-    "file-type": "^12.4.0",
+    "file-type": "^16.5.4",
     "lodash": "^4.17.15",
     "memoizee": "^0.4.14",
     "merge2": "^1.1.0",
